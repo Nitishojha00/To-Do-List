@@ -1,5 +1,17 @@
  
+ CSS 
+
  1 -->  cursor -> pointer if we use that property then the element 
          whenever cursor goto that element cursor changes 
 
  2 -->  text-decoration -> line-through
+
+
+
+
+ JAVASCRIPT
+
+ 1 --> 
+
+
+ 2 -->  

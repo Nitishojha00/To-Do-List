@@ -1,0 +1,15 @@
+
+// 1 -> pehele simply bdhia se java script smjhunga kaisa use krrha 
+        dom , event listener 
+
+// 2 -> authentication system add krunga hr ek admi ka unique ho
+        signup login
+
+// 3-> task deadline notifcation
+
+//  4-> priority system i can add number dedenge priority me
+
+  // 5-> deploy
+
+
+  // goal take 2-3 month okay i have cleared mind in project also
